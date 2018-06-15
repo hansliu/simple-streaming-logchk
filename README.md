@@ -1,1 +1,1 @@
-# simple-streaming-logchk
+# logchecker
